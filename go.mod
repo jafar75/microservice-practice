@@ -1,4 +1,4 @@
-module microservice-practice
+module github.com/jafar75/microservice-practice
 
 go 1.21.4
 
